@@ -1,7 +1,5 @@
 [![Downloads](https://static.pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
 [![PyPI version](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
-![Upload Python Package](https://github.com/ahmadfaizalbh/Chatbot/workflows/Upload%20Python%20Package/badge.svg)
-[![CodeQL](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ahmadfaizalbh/Chatbot/actions/workflows/codeql-analysis.yml)
 
 # ChatBotAI
 Python chatbot AI that helps in creating a python based chatbot with
@@ -12,11 +10,7 @@ numerous features like learn, memory, conditional switch, topic-based
 conversation handling, etc.
 
 
-![Demo GUI](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo_gui.gif)
-
-![Demo](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo.gif)
-![Clothing assistance](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/clothing.gif)
-![Remainder](https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/reminder.gif)
+!
 
 ## Installation
 
@@ -25,9 +19,6 @@ Install from PyPI:
 pip install chatbotAI
 ```
 
-install from github:
-```sh
-git clone https://github.com/ahmadfaizalbh/Chatbot.git
 cd Chatbot
 python setup.py install
 ```
